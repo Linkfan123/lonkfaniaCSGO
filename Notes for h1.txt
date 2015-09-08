@@ -1,0 +1,8 @@
+h2
+-push back t spawn wall forward
++add lift and box
+
+h1
+|raise t spawn
++put stuff at lamp
+|fix gravel near box

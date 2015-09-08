@@ -1,0 +1,43 @@
+h7
+The Pretty-ness Update
++changed wooden crates to metal
+	the old crates have gone to the Land of Lost Dreams (outside the regular map;it's a super-thin grass platform with the crates on it
+|changed the levels of the gravel
+~three of the crates are now accessible without boosts (you're welcome :3)
++made a wall higher and added an overhang to remove a CT boost spot
++added breakable glass to Watchtower window
+
+h61
+-made CT Plat less high;added funky stair things
+|made gravel texture scale 0.125 instead of 0.25, making the gravel twice as detailed (tnx link360krb)
+|made part of Watchtower metal
++added nodraw textures to a WHOLE LOTTA un-seen places;If you can see nodraw textures (a.k.a spots with no texture at all) in regualar play, please comment about it, as I'll fix it when I get the chance
+|changed most of Watchtower to a dark brick texture
++raised the block right of Wallbang Central for balance reasons
++added the rails back to Balcony. YAAAAAAAAAAAAAAAAAAAAAAY
++-added and removed player clip on top two barrels (you can't walk up it)
+
+h1p3
++added balcony to a corner near CT spawn
++pushed CT spawn further back
+
+h1p2
+|fixed T spawn I think
+-extended left CT Spawn wall and positioned sp as needed
+|fixed Box texture to be higher quality
+
+h1p1
+|positioned barrels closer to the wall and made their position more natural
+|laid down top barrel to strengthen cover
+|repositioned Lamp's lamp
++added sloped corner at T Ramp's square wall
+-pushed back wall of T Spawn forward and positioned sp as needed
+-added block to left CT Spawn wall and positioned sp as needed
+|fixed CT Ramp texture to be higher-quality
+|fixed Box texture to be higher-quality
+
+h1
+|fixed gravel at Box
++added barrels to Lamp
+|repositioned Lamp's lamp
+|raised T Spawn
