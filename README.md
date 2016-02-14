@@ -15,4 +15,5 @@ This repo contains all/most of the CS:GO maps I have made.
 * TXT   (modifies the loading screen text)
 * ZTMP  (compressed versions of BSP and NAV files for servers)
 * VMX   (a backup version of the VMT)
+
 Every map _should_ include a BSP, VMF, and NAV. Not all maps include a KV, TXT, ZTMP, or VMX file.
